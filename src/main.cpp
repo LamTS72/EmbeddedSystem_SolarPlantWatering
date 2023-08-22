@@ -127,24 +127,6 @@ String check_4Pumping(float Moisture_value, int SensorNum, int PinRelay ){
 }
 
 
-// void update_moisture_state(){
-//   display.clearDisplay();
-//   display.setCursor(0,0);
-//   display.println("S1:");
-//   display.setCursor(40,0);
-//   display.println(Moisture_Sensor1);
-
-//   display.setCursor(0,20);
-//   display.println("S2:");
-//   display.setCursor(40,20);
-//   display.println(Moisture_Sensor2);
-
-//   display.setCursor(0,40);
-//   display.println("State:");
-//   display.setCursor(80,40);
-//   display.println(state);
-//   display.display();
-// }
 
 void update_moisture_state(){
   lcd.setCursor(0,0);
