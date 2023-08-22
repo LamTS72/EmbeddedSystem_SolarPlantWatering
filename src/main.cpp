@@ -3,9 +3,6 @@
 #include <software_timer.h>
 #include <string.h>
 #include <button.h>
-#include <Adafruit_GFX.h>
-#include <Adafruit_SSD1306.h>
-
 #include <LiquidCrystal_I2C.h>
 
 
