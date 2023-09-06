@@ -58,6 +58,10 @@ String pump2_state = NO_PUMP;
 
 void setup()
 {
+  // display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS);
+  // display.clearDisplay();
+  // display.setTextSize(2);
+  // display.setTextColor(WHITE);
 
   lcd.init();                      
   lcd.backlight();
