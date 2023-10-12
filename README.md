@@ -24,10 +24,10 @@ The limitation and inefficiency of traditional plant watering methods:
 -Utilize solar power for charging battery and continuous operation.
 # System design
 -Block diagram
-<p align="center"> <img width = "40%" height = "20%" src="images/3.png"/>  </p> 
+<p align="center"> <img width = "60%" height = "20%" src="images/3.png"/>  </p> 
 
 -Finite State Machine
-<p align="center"> <img width = "40%" height = "20%" src="images/1.png"/>  </p> 
+<p align="center"> <img width = "60%" height = "20%" src="images/1.png"/>  </p> 
 
 # Integration
-<p align="center"> <img width = "40%" height = "20%" src="images/2.png"/>  </p> 
+<p align="center"> <img width = "60%" height = "20%" src="images/2.png"/>  </p> 
